@@ -1,0 +1,28 @@
+h2{
+    text-transform: uppercase;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #2c3e50;
+}
+body{
+    border: 25px solid #bdc3c7;
+    width: 50%;
+    padding: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    align-self: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.Date{
+    color: #3498db;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+div{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#won{
+    border-left: 2px solid #bdc3c7;
+    padding: 2%;
+    margin-left: 10px;
+}
